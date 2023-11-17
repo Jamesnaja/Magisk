@@ -800,3 +800,4 @@
 ### v1
 
 - Initial release
+Use `` to list all new or modified files that haven't yet been committed.
